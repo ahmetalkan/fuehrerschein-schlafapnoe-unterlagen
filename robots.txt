@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fuehrerschein-schlafapnoe-unterlagen.onrender.com/sitemap.xml
